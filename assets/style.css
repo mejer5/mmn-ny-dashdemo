@@ -419,8 +419,8 @@ Taken from https://codepen.io/chriddyp/pen/bWLwgP.css
   }
   
   body {
-    background-color: #ffffff;
-    color: #ffffff;
+    background-color: #70316d;
+    color: #ff0100;
     height: 100%;
     margin: 0;
     padding: 0;
@@ -446,7 +446,7 @@ Taken from https://codepen.io/chriddyp/pen/bWLwgP.css
     text-decoration: none;
   }
   .bg-grey{
-    background-color: #ffffff;
+    background-color: #10be10a9;
   }
   .text-padding{
     padding: 5px;
@@ -485,8 +485,8 @@ Taken from https://codepen.io/chriddyp/pen/bWLwgP.css
     padding-bottom: 12px;
   }
   .Select-control, .Select-menu-outer, .Select-multi-value-wrapper, .select-up, .is-open .Select-control {
-    background-color: #ffffff;
-    color: white;
+    background-color: #0d1daa;
+    color: rgb(34, 172, 0);
   
   }
   

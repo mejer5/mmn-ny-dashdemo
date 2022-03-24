@@ -3,21 +3,6 @@ import pandas as pd
 import numpy as np
 import calendar
 import dash
-import dash_core_components as dcc  
-import dash_html_components as html
-
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
 
 # ***************************************
 # Import af datamodel
